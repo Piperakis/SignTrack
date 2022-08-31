@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1A1A1A;}
+	.st1{fill:none;}
+	.st2{fill:#F2F2F2;}
+	.st3{font-family:'BloggerSans';}
+	.st4{font-size:72px;}
+	.st5{fill:url(#SVGID_1_);stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st6{fill:url(#SVGID_2_);}
+	.st7{fill:url(#SVGID_3_);}
+	.st8{fill:#FFCC99;}
+</style>
+<g>
+	<path class="st0" d="M968.5,444h-571c-25.1,0-45.5-20.4-45.5-45.5v-20c0-25.1,20.4-45.5,45.5-45.5h571c25.1,0,45.5,20.4,45.5,45.5
+		v20C1014,423.6,993.6,444,968.5,444z"/>
+</g>
+<rect x="683" y="358" class="st1" width="314" height="60"/>
+<text transform="matrix(1 0 0 1 683 410.1992)" class="st2 st3 st4">AutoTrain</text>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="406.1263" y1="398.9493" x2="629.1129" y2="398.9493">
+	<stop  offset="0" style="stop-color:#66D6FF"/>
+	<stop  offset="6.399725e-02" style="stop-color:#6FD1FC"/>
+	<stop  offset="0.1704" style="stop-color:#89C3F2"/>
+	<stop  offset="0.3052" style="stop-color:#B2AEE3"/>
+	<stop  offset="0.3998" style="stop-color:#D39CD7"/>
+	<stop  offset="0.9944" style="stop-color:#F6FF6A"/>
+</linearGradient>
+<path class="st5" d="M406.1,393.7c5.3-8,16-19.7,29.6-22.6c56.1-12.1,60.1,46,100.2,55.6c18,4.3,51.7,4.3,93.2-37.1"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="401.5714" y1="393.8084" x2="410.4339" y2="393.8084">
+	<stop  offset="0" style="stop-color:#FF7BAC"/>
+	<stop  offset="1" style="stop-color:#FF7BAC;stop-opacity:0"/>
+</linearGradient>
+<circle class="st6" cx="406" cy="393.8" r="4.4"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="624.7101" y1="389.4715" x2="633.6678" y2="389.4715">
+	<stop  offset="0" style="stop-color:#FF7BAC"/>
+	<stop  offset="1" style="stop-color:#FF7BAC;stop-opacity:0"/>
+</linearGradient>
+<circle class="st7" cx="629.2" cy="389.5" r="4.5"/>
+<g>
+	<path class="st0" d="M968.5,253h-571c-25.1,0-45.5-20.4-45.5-45.5v-20c0-25.1,20.4-45.5,45.5-45.5h571c25.1,0,45.5,20.4,45.5,45.5
+		v20C1014,232.6,993.6,253,968.5,253z"/>
+</g>
+<rect x="683" y="167.6" class="st1" width="273" height="60"/>
+<text transform="matrix(1 0 0 1 682.9988 219.7927)"><tspan x="0" y="0" class="st2 st3 st4">Fast</tspan><tspan x="121.2" y="0" class="st2 st3 st4">-</tspan></text>
+<path class="st8" d="M410.7,237L410.7,237c7,0,12.7-5.7,12.7-12.7v-53.6c0-7-5.7-12.7-12.7-12.7h0c-7,0-12.7,5.7-12.7,12.7v53.6
+	C398,231.3,403.7,237,410.7,237z"/>
+<path class="st8" d="M443.4,237L443.4,237c7,0,12.7-5.7,12.7-12.7v-53.6c0-7-5.7-12.7-12.7-12.7h0c-7,0-12.7,5.7-12.7,12.7v53.6
+	C430.7,231.3,436.3,237,443.4,237z"/>
+<path class="st8" d="M476,237L476,237c7,0,12.7-5.7,12.7-12.7v-53.6c0-7-5.7-12.7-12.7-12.7h0c-7,0-12.7,5.7-12.7,12.7v53.6
+	C463.3,231.3,469,237,476,237z"/>
+<path class="st8" d="M530.4,237L530.4,237c7,0,12.7-5.7,12.7-12.7v-53.6c0-7-5.7-12.7-12.7-12.7l0,0c-7,0-12.7,5.7-12.7,12.7v53.6
+	C517.7,231.3,523.4,237,530.4,237z"/>
+<path class="st8" d="M584.9,237L584.9,237c7,0,12.7-5.7,12.7-12.7v-53.6c0-7-5.7-12.7-12.7-12.7h0c-7,0-12.7,5.7-12.7,12.7v53.6
+	C572.2,231.3,577.9,237,584.9,237z"/>
+<path class="st8" d="M639.3,237L639.3,237c7,0,12.7-5.7,12.7-12.7v-53.6c0-7-5.7-12.7-12.7-12.7l0,0c-7,0-12.7,5.7-12.7,12.7v53.6
+	C626.6,231.3,632.3,237,639.3,237z"/>
+</svg>
